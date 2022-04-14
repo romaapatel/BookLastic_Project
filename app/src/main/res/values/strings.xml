@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">BookLastic</string>
+    <string name="signup">Signup</string>
+    <string name="let_s_get_started">Let\'s Get Started</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="signin">SignIn</string>
 </resources>
